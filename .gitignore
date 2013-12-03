@@ -1,0 +1,9 @@
+out/*
+.idea/workspace.xml
+*.ipr
+*.iws
+*.iml
+.DS_Store
+.idea/*
+.gradle/*
+
